@@ -8,3 +8,4 @@ str.indexOf("o")
 
 let x = Test()
 x.getName()
+
